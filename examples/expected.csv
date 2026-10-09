@@ -1,0 +1,6 @@
+order_id,email,amount,note
+00124,ada@example.test,19.90,First order
+00125,lin@example.test,11.00,"Packed, ready"
+00126,,2.00,Keep empty email key
+00127,max@example.test,5.00,"Two lines
+of notes"
